@@ -1,0 +1,31 @@
+.wapper{
+    width: calc(100% / 3);
+    height: auto;
+    background-color: white;
+    margin: 0px 30px;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+}
+.title{
+    color: #743e1d;
+    font-weight: 700;
+    font-size: 1.25rem;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+}
+.title:hover{
+    color: #fd680e
+}
+.description{
+    color: #5e5e5e;
+    font-family: 'Nunito', sans-serif;
+    margin: 0px 10px 20px 10px;
+    display: block;
+}
+.image{
+    display: block;
+    max-width: 100%;
+    max-height: 300px;
+  }
